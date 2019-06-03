@@ -1,0 +1,22 @@
+2019-06-03 21:39:33.081 [main] DEBUG za.co.investec.HighestCommonFactor - 11
+2019-06-03 21:39:33.083 [main] DEBUG za.co.investec.HighestCommonFactor - 90
+2019-06-03 21:39:33.083 [main] INFO  za.co.investec.HighestCommonFactor - {a : b} = {11 : 90}
+2019-06-03 21:39:33.083 [main] INFO  za.co.investec.HighestCommonFactor - {a : b} = {90 : 11}
+2019-06-03 21:39:33.083 [main] INFO  za.co.investec.HighestCommonFactor - {a : b} = {11 : 2}
+2019-06-03 21:39:33.083 [main] INFO  za.co.investec.HighestCommonFactor - {a : b} = {2 : 1}
+2019-06-03 21:39:33.083 [main] INFO  za.co.investec.HighestCommonFactor - {a : b} = {1 : 0}
+2019-06-03 21:39:33.084 [main] DEBUG za.co.investec.HighestCommonFactor - 23
+2019-06-03 21:39:33.084 [main] INFO  za.co.investec.HighestCommonFactor - {a : b} = {1 : 23}
+2019-06-03 21:39:33.084 [main] INFO  za.co.investec.HighestCommonFactor - {a : b} = {23 : 1}
+2019-06-03 21:39:33.084 [main] INFO  za.co.investec.HighestCommonFactor - {a : b} = {1 : 0}
+2019-06-03 21:41:07.137 [main] DEBUG za.co.investec.HighestCommonFactor - 11
+2019-06-03 21:41:07.139 [main] DEBUG za.co.investec.HighestCommonFactor - 90
+2019-06-03 21:41:07.139 [main] INFO  za.co.investec.HighestCommonFactor - {a : b} = {11 : 90}
+2019-06-03 21:41:07.139 [main] INFO  za.co.investec.HighestCommonFactor - {a : b} = {90 : 11}
+2019-06-03 21:41:07.139 [main] INFO  za.co.investec.HighestCommonFactor - {a : b} = {11 : 2}
+2019-06-03 21:41:07.140 [main] INFO  za.co.investec.HighestCommonFactor - {a : b} = {2 : 1}
+2019-06-03 21:41:07.140 [main] INFO  za.co.investec.HighestCommonFactor - {a : b} = {1 : 0}
+2019-06-03 21:41:07.140 [main] DEBUG za.co.investec.HighestCommonFactor - 23
+2019-06-03 21:41:07.140 [main] INFO  za.co.investec.HighestCommonFactor - {a : b} = {1 : 23}
+2019-06-03 21:41:07.140 [main] INFO  za.co.investec.HighestCommonFactor - {a : b} = {23 : 1}
+2019-06-03 21:41:07.140 [main] INFO  za.co.investec.HighestCommonFactor - {a : b} = {1 : 0}
